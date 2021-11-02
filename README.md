@@ -1,2 +1,2 @@
 # VR-Project
-U/M/B/C projects
+UMBC Research projects
