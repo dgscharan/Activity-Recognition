@@ -1,2 +1,2 @@
-# VR-Project
+# Activity Recognition
 UMBC Research projects
